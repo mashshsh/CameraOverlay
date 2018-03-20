@@ -67,6 +67,6 @@
     </scenes>
     <resources>
         <image name="ImgCameraCaptureBtn" width="102" height="102"/>
-        <image name="ImgOverlay" width="250" height="250"/>
+        <image name="ImgOverlay" width="160" height="163"/>
     </resources>
 </document>
