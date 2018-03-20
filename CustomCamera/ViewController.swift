@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var navigationBar: UINavigationBar!
     @IBOutlet weak var imgOverlay: UIImageView!
     @IBOutlet weak var btnCapture: UIButton!
+    
+    // add comment
 
     let captureSession = AVCaptureSession()
     let stillImageOutput = AVCaptureStillImageOutput()
